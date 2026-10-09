@@ -1,0 +1,4 @@
+# VCam LIVE Audio Diagnostics v0.2: PASSIVE, does not capture audio
+# MSHookFunction=found Render=hooked Start=hooked SetProperty=hooked ComponentNew=hooked
+epoch=1790000000 event=initialized AUStart=0 AURender=0 bus0=0 bus1=0 busOther=0 framesBus1=0 pcmNonempty=0 renderErrors=0 AUSetProperty=0 setBus1FourByte=0 lastProperty=0 AUCreate=0 RemoteIO=0 VoiceProcessingIO=0 otherComponents=0
+epoch=1790000005 event=sample AUStart=1 AURender=20 bus0=0 bus1=20 busOther=0 framesBus1=20480 pcmNonempty=20 renderErrors=0 AUSetProperty=2 setBus1FourByte=1 lastProperty=2003 AUCreate=1 RemoteIO=0 VoiceProcessingIO=1 otherComponents=0

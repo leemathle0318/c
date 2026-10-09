@@ -1,0 +1,8 @@
+Package: com.vcam.liveprobe
+Name: VCam LIVE Audio Diagnostics
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Section: Tweaks
+Maintainer: Independent Diagnostic Build
+Depends: firmware (>= 15.0), ellekit
+Description: Passive AudioUnit path diagnostics for TikTok. No audio replacement. Keeps VCam 1.1.0 untouched.
